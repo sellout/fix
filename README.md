@@ -6,4 +6,4 @@ This is just a lark. A language where you have to use fixed-points of functors t
 ## the plan
 
 * generalize `Mu` and `Nu` over {co}monads
-* target [Morte](Gabriel439/Haskell-Morte-Library)
+* target [Morte](https://github.com/Gabriel439/Haskell-Morte-Library)
