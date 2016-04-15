@@ -7,3 +7,9 @@ This is just a lark. A language where you have to use fixed-points of functors t
 
 * generalize `Mu` and `Nu` over {co}monads
 * target [Morte](https://github.com/Gabriel439/Haskell-Morte-Library)
+
+## features
+
+* higher-kinded types
+* GADTs
+* local type inference
